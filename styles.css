@@ -11,36 +11,36 @@ html, body {
 
 .red-box{
     width: 50vw;
-    height: 100px;
+    height: 50vh;
     background-color: rgb(255, 111, 111);
 }
 
 .white-box{
     width: 50vw;
-    height: 100px;
+    height: 50vh;
     background-color: rgb(226, 224, 224);
 }
 
 .blue-box{
     width: 50vw;
-    height: 100px;
+    height: 50vh;
     background-color: rgb(111, 149, 255);
 }
 
 .pink-box{
     width: 50vw;
-    height: 100px;
+    height: 50vh;
     background-color: rgb(255, 168, 248);
 }
 
 .yellow-box{
     width: 50vw;
-    height: 100px;
+    height: 50vh;
     background-color: rgb(255, 255, 189);
 }
 
 .green-box{
     width: 50vw;
-    height: 100px;
+    height: 50vh;
     background-color: rgb(190, 255, 210);
 }
