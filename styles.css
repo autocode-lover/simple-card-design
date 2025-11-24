@@ -38,3 +38,9 @@ html, body {
     height: 100px;
     background-color: rgb(255, 255, 189);
 }
+
+.green-box{
+    width: 50vw;
+    height: 100px;
+    background-color: rgb(190, 255, 210);
+}
