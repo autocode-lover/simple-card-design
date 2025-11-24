@@ -32,3 +32,9 @@ html, body {
     height: 100px;
     background-color: rgb(255, 168, 248);
 }
+
+.yellow-box{
+    width: 50vw;
+    height: 100px;
+    background-color: rgb(255, 255, 189);
+}
